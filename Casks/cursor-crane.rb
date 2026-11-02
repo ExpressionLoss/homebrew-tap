@@ -1,6 +1,6 @@
 cask "cursor-crane" do
-  version "1.3.6"
-  sha256 "629577cf2d61f52ce7aaeccfe7ea5461b7dd91164d7cf13dd5a2beca5a232eeb"
+  version "1.4.0"
+  sha256 "a8670e174e11a8b21bd9ad0bad04b87cca9649db0710614af58564cb03ef7cf6"
 
   url "https://cursorcrane.expressionloss.com/download/#{version}/Cursor.Crane.dmg"
   name "Cursor Crane"
